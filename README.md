@@ -1,4 +1,6 @@
 # Learn-to-Track-Before-Detect
+"I love being wrong because that means in that instance, I learned something new that day"
+
 
 The track-before-detect (TBD) paradigm can enhance radar
 detection and tracking of weak targets in the presence of noise
