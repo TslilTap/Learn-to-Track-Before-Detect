@@ -1,3 +1,0 @@
-## DNN tracker parameters
-
-

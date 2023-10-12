@@ -1,1 +1,0 @@
-""" Runs simulation on test data """
