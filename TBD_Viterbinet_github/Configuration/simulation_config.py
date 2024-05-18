@@ -6,7 +6,7 @@ from Configuration.viterbi_config import viterbinet_param
 
 SNR = 20
 
-track_data_path = f"G:/Shared drives/Track-Before-Detect/Track-Before-Detect/TBDViterbiNet/Data/track_data/track_data_{SNR}_SNR"
+track_data_path = "insert track data path here"
 name = "viterbinet"
 
 
