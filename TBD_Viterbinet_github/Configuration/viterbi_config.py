@@ -12,7 +12,7 @@ beam_search = 0.7
 bounding_region = 'wo'  # 'wo' weighted origin 'gb' look back m steps
 look_back_m_steps = 3
 
-dnn_dict_path = f"G:/Shared drives/Track-Before-Detect/Track-Before-Detect/TBDViterbiNet/Training/{SNR}_SNR_stats" # dnn tracker dictionary path
+dnn_dict_path = "insert dnn dict path here" # dnn tracker dictionary path
 
 dnn_tracker.load_state_dict(torch.load(dnn_dict_path))
 
