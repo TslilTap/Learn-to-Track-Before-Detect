@@ -10,8 +10,8 @@ learning_rate = 0.001
 batch_size = 500
 weight_decay = 0
 
-train_data_path = f"G:/Shared drives/Track-Before-Detect/Track-Before-Detect/TBDViterbiNet/Data/training_data/{SNR}_SNR_train_data"
-valid_data_path = f"G:/Shared drives/Track-Before-Detect/Track-Before-Detect/TBDViterbiNet/Data/training_data/{SNR}_SNR_valid_data"
+train_data_path = "insert train data path here"
+valid_data_path = "insert valid data path here"
 checkpoint_path = f"{SNR}_SNR_stats"
 
 training_loss_param_list = [
